@@ -1,0 +1,16 @@
+.top-headers{
+  color: red;
+}
+.big-tag{
+  color: blue;
+}
+#top-headers{
+  color: green;
+}
+.myCoolClass{
+  color: red;
+}
+
+.myCoolClass span{
+  color: blue;
+}
